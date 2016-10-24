@@ -18,18 +18,18 @@ I have designed this repository with subfolders for the various topics I am cove
 - [My Jupyter Notebook Server](https://notebook.thedatahumanist.website/) 
 
 # Anticipated Questions
-Q: When I go to the Jupyter Notebook server, I see warning that "Your connection is not private"
+* When I go to the Jupyter Notebook server, I see warning that "Your connection is not private"
 
-A: This is because I'm using a non-verified SSL. It's safe for what we're doing since no exchange of private data is taking place. Click "Advanced" and then "Proceed to notebook.thedatahumanist.website (unsafe)" to continue. You can read more about SSL [here] (https://en.wikipedia.org/wiki/Transport_Layer_Security).
+  * This is because I'm using a non-verified SSL. It's safe for what we're doing since no exchange of private data is taking place. Click "Advanced" and then "Proceed to notebook.thedatahumanist.website (unsafe)" to continue. You can read more about SSL [here] (https://en.wikipedia.org/wiki/Transport_Layer_Security).
 
-Q: What is the password to the Jupyter Notebook server?
+* What is the password to the Jupyter Notebook server?
 
-A: I will provide it in person at the workshop
+  * I will provide it in person at the workshop
 
-Q: Does it matter which browser I use?
+* Does it matter which web browser I use?
 
-A: My students have reported issues using Safari. Chrome seems to work best. 
+  * My students have reported issues using Safari. Chrome seems to work best. 
 
-Q: What is your Twitter handle?
+* What is your Twitter handle?
 
-A: @mjlavin80
+  * @mjlavin80

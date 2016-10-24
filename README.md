@@ -14,7 +14,7 @@ I have designed this repository with subfolders for the various topics I am cove
 
 - [Live poll] (http://etc.ch/8eiq)
 - [Live results] (http://directpoll.com/r?XDbzPBd3ixYqg8WPzpfDnVfjI28jZvhGf0QzP2FvUoa)
-- Survey summary
+- [Survey results summary](./results.md)
 - [My Jupyter Notebook Server](https://notebook.thedatahumanist.website/) 
 
 # Anticipated Questions

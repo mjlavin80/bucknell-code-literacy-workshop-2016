@@ -1,11 +1,11 @@
 # Survey questions and answer options
 
 - When did you first learn to code?
-  1. N/A, I have not learned to code
-  2. Under the age of 10
-  3. Between ages 10 and 18
-  4. Between ages 18 and 22
-  5. Over age 22
+&nbsp;1. N/A, I have not learned to code
+&nbsp;2. Under the age of 10
+&nbsp;3. Between ages 10 and 18
+&nbsp;4. Between ages 18 and 22
+&nbsp;5. Over age 22
 
 - How much programming/scripting experience do you have personally?
   1. Total novice

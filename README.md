@@ -32,4 +32,4 @@ I have designed this repository with subfolders for the various topics I am cove
 
 * What is your Twitter handle?
 
-  * @mjlavin80
+  * [@mjlavin80] (https://twitter.com/mjlavin80)

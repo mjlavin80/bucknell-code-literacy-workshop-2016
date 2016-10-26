@@ -38,6 +38,8 @@ I have designed this repository with subfolders for the various topics I am cove
 
  * [Literateprogramming.com] (http://www.literateprogramming.com/)
  * [Python] (https://www.python.org/)
+ * [Python lessons on Codecademy] (https://www.codecademy.com/learn/python)
+ * Python lessons on Lynda] (https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html)
  * [Project Jupyter] (http://jupyter.org/)
  * [Try Jupyter] (https://try.jupyter.org/)
  * [Jupyter on Github] (https://github.com/jupyter)

@@ -3,7 +3,7 @@ This repository contains materials for a workshop on code literacy at Bucknell U
 
 I have designed this repository with subfolders for the various topics I am covering at the workshop. The folders map to the following schedule:
 
-# Schedule 
+# Schedule
 
 1. [Pre-workshop survey](./survey) (20 minutes)
 2. [Introductory remarks](./intro) (15 minutes)
@@ -15,7 +15,7 @@ I have designed this repository with subfolders for the various topics I am cove
 - [Live poll] (http://etc.ch/8eiq)
 - [Live results] (http://directpoll.com/r?XDbzPBd3ixYqg8WPzpfDnVfjI28jZvhGf0QzP2FvUoa)
 - [Survey results summary](./survey/results.md)
-- [My Jupyter Notebook Server](https://notebook.thedatahumanist.website/) 
+- [My Jupyter Notebook Server](https://notebook.thedatahumanist.website/)
 
 # Anticipated Questions
 * When I go to the Jupyter Notebook server, I see a warning that "Your connection is not private"
@@ -28,7 +28,7 @@ I have designed this repository with subfolders for the various topics I am cove
 
 * Does it matter which web browser I use?
 
-  * My students have reported issues using Safari. Chrome seems to work best. 
+  * My students have reported issues using Safari. Chrome seems to work best.
 
 * What is your Twitter handle?
 
@@ -36,12 +36,12 @@ I have designed this repository with subfolders for the various topics I am cove
 
 # Some other resources
 
-## [Literateprogramming.com] (http://www.literateprogramming.com/)
-## [Python] (https://www.python.org/)
-## [Project Jupyter] (http://jupyter.org/)
-## [Try Jupyter] (https://try.jupyter.org/)
-## [Jupyter on Github] (https://github.com/jupyter)
-## [Jupyter Magic Commands] (https://ipython.org/ipython-doc/3/interactive/magics.html)
-## [Jupyter Notebook Server] (http://jupyter-notebook.readthedocs.io/en/latest/public_server.html)
-## [Jupyter Notebooks Gallery] (https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#data-driven-journalism) 
-## [Python Programming for the Humanities] (http://www.karsdorp.io/python-course/)
+ * [Literateprogramming.com] (http://www.literateprogramming.com/)
+ * [Python] (https://www.python.org/)
+ * [Project Jupyter] (http://jupyter.org/)
+ * [Try Jupyter] (https://try.jupyter.org/)
+ * [Jupyter on Github] (https://github.com/jupyter)
+ * [Jupyter Magic Commands] (https://ipython.org/ipython-doc/3/interactive/magics.html)
+ * [Jupyter Notebook Server] (http://jupyter-notebook.readthedocs.io/en/latest/public_server.html)
+ * [Jupyter Notebooks Gallery] (https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#data-driven-journalism)
+ * [Python Programming for the Humanities] (http://www.karsdorp.io/python-course/)

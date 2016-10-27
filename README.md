@@ -16,6 +16,8 @@ I have designed this repository with subfolders for the various topics I am cove
 - [Live results] (http://directpoll.com/r?XDbzPBd3ixYqg8WPzpfDnVfjI28jZvhGf0QzP2FvUoa)
 - [Survey results summary](./survey/results.md)
 - [My Jupyter Notebook Server](https://notebook.thedatahumanist.website/)
+- [Introductory Slideshow](https://mjlavin80.github.io/bucknell-code-literacy-workshop-2016)
+- [Google Form for teaching ideas and workshop feedback] (https://docs.google.com/forms/d/1XY_-qun7IQhQvm98pOwr7zxo4KNFHQZ9sBA-jQ0scPY)
 
 # Anticipated Questions
 * When I go to the Jupyter Notebook server, I see a warning that "Your connection is not private"

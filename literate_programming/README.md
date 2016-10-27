@@ -10,3 +10,6 @@ Open up the Zotero snippet
 Paste it into a Jupyter Notebook cell
 Run it to see what happens
 (Build it so it instructs the group from there)
+
+## An example of literate coding applied to Jupyter
+[Python Programming for the Humanities Chapter 1: Getting Started] (http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)

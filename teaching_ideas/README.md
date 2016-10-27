@@ -6,6 +6,10 @@ This folder houses materials related to teaching ideas brainstorm session, which
 
 I'm hoping you will take a moment at the end of the workshop to fill out this very brief [Google Form](https://docs.google.com/forms/d/1XY_-qun7IQhQvm98pOwr7zxo4KNFHQZ9sBA-jQ0scPY). 
 
+# Everyone's feedback will be archived (automatically) here:
+
+[Responses](./responses.md)
+
 # Google Form Questions
 
 1. What barriers have you encountered when teaching code or highly procedural digital material to students? Or as a student?

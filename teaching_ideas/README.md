@@ -4,7 +4,7 @@ This folder houses materials related to teaching ideas brainstorm session, which
 
 # Google Form Link
 
-I'm hoping you will take a moment at the end of the workshop to fill out this very brief [Google Form](https://docs.google.com/forms/d/1XY_-qun7IQhQvm98pOwr7zxo4KNFHQZ9sBA-jQ0scPY/viewform?edit_requested=true). 
+I'm hoping you will take a moment at the end of the workshop to fill out this very brief [Google Form](https://docs.google.com/forms/d/1XY_-qun7IQhQvm98pOwr7zxo4KNFHQZ9sBA-jQ0scPY). 
 
 # Google Form Questions
 

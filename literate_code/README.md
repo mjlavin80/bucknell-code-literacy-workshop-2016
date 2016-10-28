@@ -1,6 +1,6 @@
-# Literate Programming Activity
+# Literate Code Activity
 
-This folder houses materials on the literate programming activity for the workshop.
+This folder houses materials on the literate code activity for the workshop.
 
 ## Instructions
 #### For this activity, we will break into teams of five or six people. Once gathered at a computer, create a Jupyter Notebook for your team by following these steps:

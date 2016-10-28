@@ -7,7 +7,7 @@ I have designed this repository with subfolders for the various topics I am cove
 
 1. [Pre-workshop survey](./survey) (20 minutes)
 2. [Introductory remarks](./intro) (15 minutes)
-3. [Literate programming exercise](./literate_programming) (30 minutes)
+3. [Literate code exercise](./literate_code) (30 minutes)
 4. [Discussion of teaching ideas](./teaching_ideas) (20 minutes)
 
 # Other Quick Links

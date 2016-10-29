@@ -20,6 +20,14 @@ This folder houses materials on the literate code activity for the workshop.
 
 #### Now it's time to Work with the Zotero API!
 
+#### Note: 
+
+For this exercise, you will need to replace this line of code
+```
+api_key= "Your API key here"
+```
+with a valid API key. You can sign up for your own, or I can let you use my for sandboxing purposes only. 
+
 * Go back to [https://notebook.thedatahumanist.website](https://notebook.thedatahumanist.website) and click on the file named "zotero_snippet.py"
 * The script is divided into 17 lines of code. Select the first line, copy it to the clipboard, and go back to the your Notebook.
 * Paste the first line of code into a Notebook code cell and press <em>Play</em>

@@ -1,13 +1,21 @@
 ## Timestamp
 
 10/29/2016 15:09:40
+
 10/29/2016 15:10:24
+
 10/29/2016 15:10:32
+
 10/29/2016 15:11:38
+
 10/29/2016 15:13:06
+
 10/29/2016 15:13:43
+
 10/29/2016 15:14:05
+
 10/29/2016 15:15:49
+
 ## What barriers have you encountered when teaching code or highly procedural digital material to students? Or as a student?
 
 (librarian learners) time commitment, lack of relevance to their daily work requirements, applicability to usable solutions (i.e. great, I know how to use BASH but what does it actually do that will be useful to me?), tech issues (pc, installing Cygwin without admin access)

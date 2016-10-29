@@ -5,7 +5,7 @@ from collections import Counter
 
 library_id = "655084"
 library_type = "group"
-api_key= "Your API key here"
+api_key= "ajdUMPwUpwULGD2cwdXaOASG"
 
 zot = zotero.Zotero(library_id, library_type, api_key)
 hybrid_blended = zot.everything(zot.collection_items("95HW46ZG"))
